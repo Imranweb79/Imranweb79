@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abulkalamkhan7978@gmail.com**
 
-- ⚡ Fun fact **I think I am Good Player**
+- ⚡ Fun fact **I think I am a Good Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
