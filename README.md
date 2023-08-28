@@ -1,25 +1,44 @@
 <h1 align="center">Hi 👋, I'm Md Imran Khan</h1>
 <h3 align="center">Expert in Reputation Management For Amazon & Google Virtual Assistant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranweb79&label=Profile%20views&color=0e75b6&style=flat" alt="imranweb79" /> </p>
+<p 
+  
+It is me Md Imran Khan
+I am available to discuss your custom requirements to grow your business together. I have completed two full-stack Web Development and Mobile Game and application courses. (The program is certified by George Washington University, USA) and another from the ICT Division Bangladesh. Over the past six years, I have successfully increased reputation management service for my all-world clients.  
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranweb79" alt="imranweb79" /></a> </p>
+✔Here is my services for Amazon: 
+- ✅ Amazon KDP Book Promotion & Marketing
+- ✅ Audible (ACX) Book Promotion & Marketing
+- ✅ Amazon eBook Review 
+- ✅ACX Promo Code and Without Code Review
+- ✅ Put Helpful Vote & Report on Review Links 
+- ✅ Social Media Marketing and Management
+  
+✔Here is my services for Google:
 
-<p align="left"> <a href="https://twitter.com/imran744khan" target="blank"><img src="https://img.shields.io/twitter/follow/imran744khan?logo=twitter&style=for-the-badge" alt="imran744khan" /></a> </p>
+- ✅ Google my business (GMB) listing and optimization
+- ✅ Google Map Review 
+- ✅ Avvo Reviews
+- ✅ Trustpilot Reviews
+- ✅ Google Book Review 
+- ✅ Yelp Reviews
+- ✅ Glassdoor Reviews
+- ✅ Brand Reputation
+- ✅ Social Media Marketing and Management
+  
+  🟢 You are welcome to schedule a free casual Zoom meeting with me anytime to discuss how to build your business.
 
-- 🔭 I’m currently working on **SEO Expert Management For Google**
+💡WHY ME?💡
 
-- 🌱 I’m currently learning **Book Formatting**
-
-- 🔭 I’m currently working **Amazon Book Promotion**
-
-- 🔭 I’m currently working **Amazon Book Promotion and Marketing**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **abulkalamkhan7978@gmail.com**
-
-- ⚡ Fun fact **I think I am a Good Player**
+- ✪✓ Positive Communication Skills
+- ✪✓ Confidence
+- ✪✓ Timeframe Oriented
+- ✪✓ Strong Initiative
+- ✪✓ Creativity
+  
+- 🟢 If your business is serious about Reputation Management, I can help 💯%
+- 💬 In case of any service needs, please don't hesitate to contact me.(abulkalamkhan7978@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
