@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md Imran Khan</h1>
+<h1 align="center">Hi 👋, World It's Me Md Imran Khan </h1>
 <h3 align="center">Expert in Reputation Management For Amazon & Google Virtual Assistant</h3>
 
 <p 
   
-It is me Md Imran Khan
+It's me Md Imran Khan.
 I am available to discuss your custom requirements to grow your business together. I have completed two full-stack Web Development and Mobile Game and application courses. (The program is certified by George Washington University, USA) and another from the ICT Division Bangladesh. Over the past six years, I have successfully increased reputation management service for my all-world clients.  
 </p>
 
